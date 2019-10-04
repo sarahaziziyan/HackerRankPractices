@@ -1,3 +1,5 @@
+package algorythms.strings;
+
 import java.util.*;
 
 public class SuperReducedString{
